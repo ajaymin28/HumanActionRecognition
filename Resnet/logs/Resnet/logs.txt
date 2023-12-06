@@ -1,0 +1,64 @@
+Torch device selected:cuda 
+Saving model for best val acc: 51.746 val loss: 0.0131 acc: 25.4861  loss:0.0185 
+Epoch 1 Loss: 0.0185 Acc: 25.4861  val_loss: 0.0131  val_acc: 51.746
+Saving model for best val acc: 57.2619 val loss: 0.0111 acc: 45.9921  loss:0.0135 
+Epoch 2 Loss: 0.0135 Acc: 45.9921  val_loss: 0.0111  val_acc: 57.2619
+Saving model for best val acc: 59.7619 val loss: 0.0103 acc: 51.4286  loss:0.012 
+Epoch 3 Loss: 0.012 Acc: 51.4286  val_loss: 0.0103  val_acc: 59.7619
+Saving model for best val acc: 61.3889 val loss: 0.0098 acc: 54.3056  loss:0.0112 
+Epoch 4 Loss: 0.0112 Acc: 54.3056  val_loss: 0.0098  val_acc: 61.3889
+Saving model for best val acc: 62.0635 val loss: 0.0095 acc: 56.1706  loss:0.0106 
+Epoch 5 Loss: 0.0106 Acc: 56.1706  val_loss: 0.0095  val_acc: 62.0635
+Saving model for best val acc: 62.4206 val loss: 0.0093 acc: 57.5694  loss:0.0103 
+Epoch 6 Loss: 0.0103 Acc: 57.5694  val_loss: 0.0093  val_acc: 62.4206
+Saving model for best val acc: 63.4524 val loss: 0.0092 acc: 59.0179  loss:0.0099 
+Epoch 7 Loss: 0.0099 Acc: 59.0179  val_loss: 0.0092  val_acc: 63.4524
+Epoch 8 Loss: 0.0097 Acc: 60.5456  val_loss: 0.0091  val_acc: 63.0159
+Epoch 9 Loss: 0.0097 Acc: 60.6448  val_loss: 0.0092  val_acc: 62.5
+Saving model for best val acc: 63.7302 val loss: 0.0091 acc: 60.3075  loss:0.0097 
+Epoch 10 Loss: 0.0097 Acc: 60.3075  val_loss: 0.0091  val_acc: 63.7302
+Epoch 11 Loss: 0.0096 Acc: 60.7044  val_loss: 0.0092  val_acc: 62.9762
+Saving model for best val acc: 63.7698 val loss: 0.0092 acc: 60.7143  loss:0.0096 
+Epoch 12 Loss: 0.0096 Acc: 60.7143  val_loss: 0.0092  val_acc: 63.7698
+Epoch 13 Loss: 0.0096 Acc: 60.5952  val_loss: 0.0091  val_acc: 63.4524
+Epoch 14 Loss: 0.0096 Acc: 60.8234  val_loss: 0.0091  val_acc: 63.5714
+Saving model for best val acc: 64.0476 val loss: 0.0091 acc: 60.7937  loss:0.0095 
+Epoch 15 Loss: 0.0095 Acc: 60.7937  val_loss: 0.0091  val_acc: 64.0476
+Epoch 16 Loss: 0.0096 Acc: 60.496  val_loss: 0.009  val_acc: 63.0952
+Epoch 17 Loss: 0.0096 Acc: 60.9425  val_loss: 0.0091  val_acc: 63.4127
+Epoch 18 Loss: 0.0096 Acc: 60.9028  val_loss: 0.0091  val_acc: 63.1746
+Saving model for best val acc: 64.0873 val loss: 0.0091 acc: 60.6647  loss:0.0096 
+Epoch 19 Loss: 0.0096 Acc: 60.6647  val_loss: 0.0091  val_acc: 64.0873
+Epoch 20 Loss: 0.0095 Acc: 60.7837  val_loss: 0.0091  val_acc: 63.4921
+Epoch 21 Loss: 0.0096 Acc: 60.6151  val_loss: 0.009  val_acc: 63.3333
+Epoch 22 Loss: 0.0094 Acc: 61.5377  val_loss: 0.009  val_acc: 63.8492
+Epoch 23 Loss: 0.0096 Acc: 60.7044  val_loss: 0.009  val_acc: 63.8889
+Epoch 24 Loss: 0.0095 Acc: 61.2897  val_loss: 0.0091  val_acc: 62.8968
+Epoch 25 Loss: 0.0095 Acc: 60.8135  val_loss: 0.0091  val_acc: 62.8571
+Epoch 26 Loss: 0.0096 Acc: 60.873  val_loss: 0.0091  val_acc: 63.9683
+Epoch 27 Loss: 0.0095 Acc: 60.8433  val_loss: 0.0091  val_acc: 63.3333
+Epoch 28 Loss: 0.0096 Acc: 61.1409  val_loss: 0.0091  val_acc: 63.3333
+Epoch 29 Loss: 0.0095 Acc: 61.2103  val_loss: 0.0091  val_acc: 63.2143
+Epoch 30 Loss: 0.0095 Acc: 60.625  val_loss: 0.0091  val_acc: 62.1825
+Epoch 31 Loss: 0.0095 Acc: 60.5556  val_loss: 0.009  val_acc: 63.9683
+Epoch 32 Loss: 0.0095 Acc: 61.0913  val_loss: 0.009  val_acc: 63.4524
+Epoch 33 Loss: 0.0094 Acc: 61.131  val_loss: 0.0091  val_acc: 63.1349
+Epoch 34 Loss: 0.0095 Acc: 60.9524  val_loss: 0.0091  val_acc: 63.7302
+Epoch 35 Loss: 0.0094 Acc: 61.3095  val_loss: 0.0091  val_acc: 63.3333
+Epoch 36 Loss: 0.0095 Acc: 61.2798  val_loss: 0.009  val_acc: 63.7698
+Epoch 37 Loss: 0.0096 Acc: 61.0417  val_loss: 0.0091  val_acc: 63.7698
+Epoch 38 Loss: 0.0095 Acc: 60.9028  val_loss: 0.009  val_acc: 62.8571
+Epoch 39 Loss: 0.0096 Acc: 60.5456  val_loss: 0.009  val_acc: 64.0079
+Epoch 40 Loss: 0.0095 Acc: 61.379  val_loss: 0.0091  val_acc: 63.254
+Epoch 41 Loss: 0.0096 Acc: 60.6052  val_loss: 0.0091  val_acc: 64.0873
+Epoch 42 Loss: 0.0095 Acc: 60.6151  val_loss: 0.0091  val_acc: 63.373
+Epoch 43 Loss: 0.0095 Acc: 60.873  val_loss: 0.009  val_acc: 63.4524
+Epoch 44 Loss: 0.0095 Acc: 60.6944  val_loss: 0.009  val_acc: 63.7698
+Epoch 45 Loss: 0.0096 Acc: 60.6647  val_loss: 0.0091  val_acc: 63.254
+Saving model for best val acc: 64.1667 val loss: 0.009 acc: 60.6845  loss:0.0096 
+Epoch 46 Loss: 0.0096 Acc: 60.6845  val_loss: 0.009  val_acc: 64.1667
+Saving model for best val acc: 64.2063 val loss: 0.009 acc: 61.25  loss:0.0095 
+Epoch 47 Loss: 0.0095 Acc: 61.25  val_loss: 0.009  val_acc: 64.2063
+Epoch 48 Loss: 0.0095 Acc: 60.6448  val_loss: 0.009  val_acc: 63.373
+Epoch 49 Loss: 0.0095 Acc: 60.873  val_loss: 0.009  val_acc: 64.1667
+Epoch 50 Loss: 0.0096 Acc: 60.1587  val_loss: 0.009  val_acc: 63.8889
