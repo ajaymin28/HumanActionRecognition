@@ -4,6 +4,8 @@
 
 ## 📝 Introduction
 
+
+
 Human Action Recognition (HAR) in computer vision is vital for applications such as surveillance, healthcare, and human-computer interaction. Traditional approaches depended on video-based inputs or handcrafted features, often struggling with complex actions. Recent advances leverage **static images** and **multimodal models** like [CLIP](https://github.com/mlfoundations/open_clip), which align textual and visual embeddings for robust action recognition.  
 This project explores prompt engineering and Top-K accuracy to showcase how CLIP achieves **state-of-the-art performance** on static image action recognition, outperforming traditional CNNs.
 
@@ -28,6 +30,15 @@ This project explores prompt engineering and Top-K accuracy to showcase how CLIP
 - **15 classes**, >12,000 labeled images
 - Images are organized in class-specific folders for streamlined training & evaluation
 
+<p align="center">
+  <img src="src/DatasetClasses.PNG" alt="Dataset Classes" width="600"/>
+</p>
+
+### Prompt Engineering (finegrained relabelling of the data)
+
+<p align="center">
+  <img src="src/PromptEngineering.PNG" alt="Dataset Classes" width="600"/>
+</p>
 
 ---
 
@@ -36,7 +47,7 @@ This project explores prompt engineering and Top-K accuracy to showcase how CLIP
 - **Top-K Accuracy:**  
   - Evaluates if the true label appears in the top-K predictions (commonly K=5)
   - Especially useful when multiple actions are plausible for a single image
-  - For test data (no GT): show top-3 model predictions
+  - For test data (there is no GT label): so we show top-3 model predictions
 
 ---
 
@@ -52,5 +63,13 @@ This project explores prompt engineering and Top-K accuracy to showcase how CLIP
 - **CLIP** can overfit on training but still generalizes well (as observed in loss/accuracy plots).
 - **No ground truth for test set:** Top-3 predictions shown for interpretability.
 - **Attention maps** highlight the synergy between textual prompts and visual focus.
+
+
+### Attention maps
+
+<p align="center">
+  <img src="src/clip_attn_maps.png" alt="Dataset Classes" width="800"/>
+</p>
+
 
 ---
